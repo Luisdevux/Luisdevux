@@ -32,15 +32,17 @@ Atualmente, desenvolvo projetos que envolvem **backend com Node.js**, **boas pr�
 ## ⚙️ Tech Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img title="JavaScript" alt="JavaScript" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img title="Node.js" alt="Node.js" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img title="Express.js" alt="Express.js" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-  <img title="MongoDB" alt="MongoDB" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  <img title="MySQL" alt="MySQL" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img title="Docker" alt="Docker" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img title="Linux" alt="Linux" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img title="Git" alt="Git" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img title="AWS" alt="AWS" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img title="JavaScript" alt="JavaScript" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img title="Node.js" alt="Node.js" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img title="HTML5" alt="HTML5" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img title="CSS3" alt="CSS3" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img title="Express.js" alt="Express.js" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+  <img title="MongoDB" alt="MongoDB" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img title="MySQL" alt="MySQL" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img title="Docker" alt="Docker" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img title="Linux" alt="Linux" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img title="Git" alt="Git" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
 </div>
 
 <br/>
@@ -50,36 +52,36 @@ Atualmente, desenvolvo projetos que envolvem **backend com Node.js**, **boas pr�
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projeto em Destaque
 
 ### [IFRO Events](https://github.com/Luisdevux/ifro-events)
 > Plataforma de gestão e exibição de eventos acadêmicos.  
-**Stack:** Node.js, Express, MongoDB, Docker, Jest, Sharp, AWS EC2.  
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+**Stack:** Node.js, Express, MongoDB, Docker, Jest, Sharp, AWS EC2.
 
 ---
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img alt="Metrics overview" src="./metrics.svg" />
-</p>
+<div align="center">
+  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Luisdevux&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" />
+  <img height="170" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisdevux&theme=tokyonight&layout=compact&langs_count=10" />
+</div>
+
+<div align="center">
+  <img height="170" alt="Streak" src="https://streak-stats.demolab.com?user=Luisdevux&theme=tokyonight&hide_border=false" />
+</div>
+
+---
+
+## 📈 Atividade
 
 <p align="center">
-  <img alt="Languages" src="./metrics.languages.svg" />
-</p>
-
-<p align="center">
-  <img alt="Contribuições" src="./metrics.isocalendar.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luisdevux&theme=tokyo-night&hide_border=false&area=true" alt="Activity Graph"/>
 </p>
 
 ---
 
-## 🐍 Gráfico de Commits
+## 🐍 Commits
 
 <p align="center">
   <picture>
@@ -94,19 +96,19 @@ Atualmente, desenvolvo projetos que envolvem **backend com Node.js**, **boas pr�
 ## ✨ Curiosidades e Interesses
 
 - 📚 Curto aprender constantemente, seja testando tecnologias novas ou revisitando fundamentos  
-- 🔧 Gosto de organizar projetos, escrever documentação clara e deixar tudo mais fácil para quem for usar ou manter  
 - 💡 Tenho interesse em **arquitetura de software, automação e boas práticas**  
 - 🤝 Valorizo colaboração, revisão de código e troca de experiências com a comunidade  
 - 🎮 No tempo livre, gosto de explorar hardware, configurações gráficas em jogos e entender como a tecnologia impacta no dia a dia
+
 
 ---
 
 ## 📫 Contato
 
-- Email: **luis.felipe.lopes1275@gmail.com**  
-- GitHub: [github.com/Luisdevux](https://github.com/Luisdevux)  
+- Email: **luis.felipe.lopes1275@gmail.com**
+- GitHub: [github.com/Luisdevux](https://github.com/Luisdevux)
 - LinkedIn: [in/luis-felipe-lopes-638712331](https://www.linkedin.com/in/luis-felipe-lopes-638712331)
 
 <p align="center">
-  <i>“Construindo soluções hoje para abrir caminhos amanhã.”</i>
+  <i>“O futuro pertence a quem constrói um pouco todos os dias.”</i>
 </p>
