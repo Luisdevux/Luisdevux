@@ -93,7 +93,7 @@ Atualmente, desenvolvo projetos que envolvem **backend com Node.js**, **boas pr�
 
 ---
 
-## ✨ Curiosidades e Interesses
+## 📚 Curiosidades e Interesses
 
 - 📚 Curto aprender constantemente, seja testando tecnologias novas ou revisitando fundamentos  
 - 💡 Tenho interesse em **arquitetura de software, automação e boas práticas**  
