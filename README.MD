@@ -54,7 +54,7 @@ Atualmente, desenvolvo projetos que envolvem **backend com Node.js**, **boas pr�
 
 ## 🚀 Projeto em Destaque
 
-### [IFRO Events](https://github.com/Luisdevux/ifro-events)
+### [IFRO Events](https://github.com/Luisdevux/API-IfroEvents)
 > Plataforma de gestão e exibição de eventos acadêmicos.  
 **Stack:** Node.js, Express, MongoDB, Docker, Jest, Sharp, AWS EC2.
 
