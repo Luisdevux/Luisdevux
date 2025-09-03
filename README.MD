@@ -68,7 +68,7 @@ Atualmente, desenvolvo projetos que envolvem **backend com Node.js**, **boas pr√
 </div>
 
 <div align="center">
-  <img height="170" alt="Streak" src="https://streak-stats.demolab.com?user=Luisdevux&theme=tokyonight&hide_border=false" />
+ <img height="170" alt="Streak" src="https://streak-stats.demolab.com/?user=Luisdevux&theme=tokyonight&hide_border=false&cache_seconds=86400" />
 </div>
 
 ---
