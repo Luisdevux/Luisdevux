@@ -67,8 +67,8 @@ Atualmente, desenvolvo projetos que envolvem **backend com Node.js**, **boas pr√
   <img height="170" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisdevux&theme=tokyonight&layout=compact&langs_count=10" />
 </div>
 
-<div align="center">
- <img height="170" alt="Streak" src="https://streak-stats.demolab.com/?user=Luisdevux&theme=tokyonight&hide_border=false&cache_seconds=86400" />
+<div align="center"> 
+  <img height="170" alt="Streak" src="https://streak-stats.vercel.app/?user=Luisdevux&theme=tokyonight&hide_border=false&cache_seconds=86400&v=1" /> 
 </div>
 
 ---
