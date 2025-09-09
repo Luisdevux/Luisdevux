@@ -56,7 +56,6 @@ Atualmente, desenvolvo projetos que envolvem **backend com Node.js**, **boas pr�
 
 ### [Infraestrutura AWS de Deploy WordPress com Docker e Outros Serviços](https://github.com/Luisdevux/API-IfroEvents)
 > Automação de deploy de WordPress em EC2 com Docker, EFS para persistência de mídias, banco de dados RDS e escalabilidade via Auto Scaling.
-
 **Stack:** AWS (EC2, EFS, RDS, ALB, Auto Scaling, IAM), Docker, Docker Compose, Ubuntu Server, Shell Script, Secrets Manager.
 
 ---
