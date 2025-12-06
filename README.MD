@@ -1,6 +1,6 @@
 <!-- Banner / Cabeçalho -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com? duration=3200&pause=700&color=58A6FF&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Luis+Felipe+Lopes+(Luisdevux)! ;Desenvolvimento+Full+Stack+%7C+IFRO+%7C+Aprendizado+Cont%C3%ADnuo;Tecnologia%2C+inova%C3%A7%C3%A3o+e+solu%C3%A7%C3%B5es+reais" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?duration=3200&pause=700&color=58A6FF&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Luis+Felipe+Lopes+(Luisdevux)!;Desenvolvimento+Full+Stack+%7C+IFRO+%7C+Aprendizado+Cont%C3%ADnuo;Tecnologia%2C+inova%C3%A7%C3%A3o+e+solu%C3%A7%C3%B5es+reais"alt="Typing SVG" />
 </p>
 
 <h1 align="center">👨🏻‍💻 Luis Felipe Lopes</h1>
