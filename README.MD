@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Luisdevux"><img alt="GitHub Badge" src="https://img.shields.io/badge/-Luisdevux-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:luis.felipe. lopes1275@gmail.com"><img alt="Email" src="https://img. shields.io/badge/Email-luis.felipe.lopes1275%40gmail.com-FF4D4D?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:luis. felipe.lopes1275@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-luis.felipe. lopes1275%40gmail.com-FF4D4D?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/luis-felipe-lopes-638712331"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Luis%20Felipe%20Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
@@ -34,45 +34,38 @@ Atualmente, desenvolvo projetos **Full Stack** que envolvem **frontend com Next.
 ## ⚙️ Tech Stack
 
 ### 🖥️ Frontend
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img title="Next.js" alt="Next.js" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img title="React" alt="React" width="38" src="https://cdn.jsdelivr. net/gh/devicons/devicon@latest/icons/react/react-original. svg" />
-  <img title="TypeScript" alt="TypeScript" width="38" src="https://cdn.jsdelivr. net/gh/devicons/devicon@latest/icons/typescript/typescript-original. svg" />
-  <img title="JavaScript" alt="JavaScript" width="38" src="https://cdn. jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img title="TailwindCSS" alt="TailwindCSS" width="38" src="https://cdn. jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img title="HTML5" alt="HTML5" width="38" src="https://cdn.jsdelivr. net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img title="CSS3" alt="CSS3" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-</div>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Backend
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img title="Node.js" alt="Node.js" width="38" src="https://cdn. jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img title="Express.js" alt="Express. js" width="38" src="https://cdn.jsdelivr. net/gh/devicons/devicon@latest/icons/express/express-original. svg" />
-  <img title="MongoDB" alt="MongoDB" width="38" src="https://cdn. jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  <img title="Mongoose" alt="Mongoose" width="38" src="https://cdn.jsdelivr. net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original. svg" />
-  <img title="MySQL" alt="MySQL" width="38" src="https://cdn. jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img title="Swagger" alt="Swagger" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### 🧪 Testes & Qualidade
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img title="Jest" alt="Jest" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
-  <img title="Cypress" alt="Cypress" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
-  <img title="ESLint" alt="ESLint" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" />
-</div>
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
 ### 🛠️ DevOps & Ferramentas
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img title="Docker" alt="Docker" width="38" src="https://cdn. jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img title="AWS" alt="AWS" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img title="Nginx" alt="Nginx" width="38" src="https://cdn.jsdelivr. net/gh/devicons/devicon@latest/icons/nginx/nginx-original. svg" />
-  <img title="Linux" alt="Linux" width="38" src="https://cdn. jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img title="Git" alt="Git" width="38" src="https://cdn. jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</div>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
 
-![Status](https://img. shields.io/badge/Status-Always%20Learning-blue? style=flat-square)
+![Status](https://img.shields.io/badge/Status-Always%20Learning-blue?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20AWS-green?style=flat-square)
 
 ---
@@ -80,16 +73,16 @@ Atualmente, desenvolvo projetos **Full Stack** que envolvem **frontend com Next.
 ## 🚀 Projetos em Destaque
 
 ### [Sistema de Serviços Públicos](https://github.com/Luisdevux/Servicos_Publicos_Front)
-> Sistema completo de gestão e administração de serviços públicos com frontend moderno e API robusta.
+> Sistema completo de gestão e administração de serviços públicos com frontend moderno e API robusta. 
 
 **Frontend Stack:** Next.js 15, React 19, TypeScript, TailwindCSS 4, Radix UI, React Query, React Hook Form, Zod, Leaflet (mapas), Recharts (gráficos), NextAuth, Cypress
 
-**Backend Stack:** Node.js, Express 5, MongoDB, Mongoose, JWT, Swagger, Jest, Helmet, Winston, MinIO, Nodemailer
+**Backend Stack:** Node.js, Express 5, MongoDB, Mongoose, JWT, Swagger, Jest, Helmet, Winston, MinIO, MailSender
 
 ---
 
 ### [Infraestrutura AWS de Deploy WordPress com Docker](https://github.com/Luisdevux/Projeto-AWS-Infra-Wordpress)
-> Automação de deploy de WordPress em EC2 com Docker, EFS para persistência de mídias, banco de dados RDS e escalabilidade via Auto Scaling. 
+> Automação de deploy de WordPress em EC2 com Docker, EFS para persistência de mídias, banco de dados RDS e escalabilidade via Auto Scaling.
 
 **Stack:** AWS (EC2, EFS, RDS, ALB, Auto Scaling, IAM), Docker, Docker Compose, Ubuntu Server, Shell Script, Secrets Manager
 
@@ -98,8 +91,8 @@ Atualmente, desenvolvo projetos **Full Stack** que envolvem **frontend com Next.
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api? username=Luisdevux&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&include_all_commits=true" />
-  <img height="170" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisdevux&theme=tokyonight&layout=compact&langs_count=10" />
+  <img height="170" alt="GitHub Stats" src="https://github-readme-stats. vercel.app/api? username=Luisdevux&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&include_all_commits=true" />
+  <img height="170" alt="Top Langs" src="https://github-readme-stats.vercel. app/api/top-langs/?username=Luisdevux&theme=tokyonight&layout=compact&langs_count=10" />
 </div>
 
 <div align="center"> 
@@ -111,7 +104,7 @@ Atualmente, desenvolvo projetos **Full Stack** que envolvem **frontend com Next.
 ## 📈 Atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph. vercel.app/graph?username=Luisdevux&theme=tokyo-night&hide_border=false&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luisdevux&theme=tokyo-night&hide_border=false&area=true" alt="Activity Graph"/>
 </p>
 
 ---
@@ -127,7 +120,7 @@ Atualmente, desenvolvo projetos **Full Stack** que envolvem **frontend com Next.
 
 ## 📫 Contato
 
-- Email: **luis. felipe.lopes1275@gmail.com**
+- Email: **luis.felipe.lopes1275@gmail.com**
 - GitHub: [github.com/Luisdevux](https://github.com/Luisdevux)
 - LinkedIn: [in/luis-felipe-lopes-638712331](https://www.linkedin.com/in/luis-felipe-lopes-638712331)
 
