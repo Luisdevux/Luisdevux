@@ -22,7 +22,9 @@
 Sou estudante de **Análise e Desenvolvimento de Sistemas** no IFRO, apaixonado por tecnologia, inovação e desafios.  
 Atualmente, desenvolvo projetos que envolvem **backend com Node.js**, **boas práticas de arquitetura** e **testes automatizados**, buscando sempre escrever código limpo e escalável.
 
-- 🔭 Projetos recentes: [IFRO Events](https://github.com/Luisdevux/API-IfroEvents) – plataforma de gestão e exibição de eventos  
+- 🔭 Projetos recentes - Sistema de gestão e administração de serviços públicos:
+  - [Serviços Públicos - Frontend] (https://github.com/Luisdevux/Servicos_Publicos_Front.git)
+  - [Serviços Públicos - Backend] (https://github.com/Luisdevux/Servicos_Publicos_API.git)
 - 🧠 Foco atual: **APIs REST**, **testes com Jest** e **deploy em AWS (EC2, VPC, Nginx)**  
 - 🤝 Aberto a colaborar em: projetos educacionais e soluções de impacto social  
 - ✉️ Contato: **luis.felipe.lopes1275@gmail.com**
