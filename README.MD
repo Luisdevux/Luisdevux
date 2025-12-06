@@ -110,6 +110,16 @@ Atualmente, desenvolvo projetos **Full Stack** que envolvem **frontend com Next.
 
 ---
 
+## 🎮 Minhas Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luisdevux/Luisdevux/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luisdevux/Luisdevux/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw. githubusercontent.com/Luisdevux/Luisdevux/output/pacman-contribution-graph. svg">
+</picture>
+
+---
+
 ## 📚 Curiosidades e Interesses
 
 - 📚 Curto aprender constantemente, seja testando tecnologias novas ou revisitando fundamentos  
