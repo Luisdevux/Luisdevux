@@ -100,9 +100,6 @@ Atualmente, desenvolvo projetos **Full Stack** que envolvem **frontend com Next.
 
 <div align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luisdevux&theme=tokyonight" alt="Stats" />
-</div>
-
-<div align="center"> 
   <img height="170"alt="Streak"src="https://github-readme-streak-stats.herokuapp.com/?user=Luisdevux&theme=tokyonight&hide_border=false" /> 
 </div>
 
