@@ -98,11 +98,6 @@ Atualmente, desenvolvo projetos **Full Stack** que envolvem **frontend com Next.
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luisdevux&theme=tokyonight" alt="Stats" />
 </div>
 
-<div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luisdevux&theme=tokyonight" alt="Repos per Language" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luisdevux&theme=tokyonight" alt="Most Commit Language" />
-</div>
-
 <div align="center"> 
   <img height="170"alt="Streak"src="https://github-readme-streak-stats.herokuapp.com/?user=Luisdevux&theme=tokyonight&hide_border=false" /> 
 </div>
