@@ -110,14 +110,6 @@ Atualmente, desenvolvo projetos **Full Stack** que envolvem **frontend com Next.
 
 ---
 
-## 📈 Atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luisdevux&theme=tokyo-night&hide_border=false&area=true" alt="Activity Graph"/>
-</p>
-
----
-
 ## 📚 Curiosidades e Interesses
 
 - 📚 Curto aprender constantemente, seja testando tecnologias novas ou revisitando fundamentos  
