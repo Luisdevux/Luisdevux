@@ -91,8 +91,8 @@ Atualmente, desenvolvo projetos **Full Stack** que envolvem **frontend com Next.
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="170"alt="GitHub Stats"src="https://github-readme-stats.vercel.app/api?username=Luisdevux&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&include_all_commits=true" />
-  <img height="170"alt="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisdevux&theme=tokyonight&layout=compact&langs_count=10" />
+  <img height="170"alt="GitHubStats"src="https://github-readme-stats.vercel.app/api?username=Luisdevux&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&include_all_commits=true" />
+  <img height="170"alt="TopLangs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisdevux&theme=tokyonight&layout=compact&langs_count=10" />
 </div>
 
 <div align="center"> 
