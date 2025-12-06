@@ -91,8 +91,17 @@ Atualmente, desenvolvo projetos **Full Stack** que envolvem **frontend com Next.
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="170" alt="GitHub Stats" src="https://github-readme-stats-ruby-one.vercel.app/api?username=Luisdevux&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&include_all_commits=true" />
-  <img height="170" alt="Top Langs" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Luisdevux&theme=tokyonight&layout=compact&langs_count=10" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luisdevux&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luisdevux&theme=tokyonight" alt="Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luisdevux&theme=tokyonight&utcOffset=-4" alt="Productive Time" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luisdevux&theme=tokyonight" alt="Repos per Language" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luisdevux&theme=tokyonight" alt="Most Commit Language" />
 </div>
 
 <div align="center"> 
