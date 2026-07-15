@@ -22,10 +22,11 @@
 Sou estudante de **Análise e Desenvolvimento de Sistemas** no IFRO, apaixonado por tecnologia, inovação e desafios.   
 Atualmente, desenvolvo projetos **Full Stack** que envolvem **frontend com Next.js/React**, **backend com Node.js**, **boas práticas de arquitetura** e **testes automatizados**, buscando sempre escrever código limpo e escalável.
 
-- 🔭 Projetos recentes - Sistema de gestão e administração de serviços públicos:
-  - [Serviços Públicos - Frontend](https://github.com/Luisdevux/Servicos_Publicos_Front)
-  - [Serviços Públicos - Backend](https://github.com/Luisdevux/Servicos_Publicos_API)
-- 🧠 Foco atual: **Next.js**, **TypeScript**, **APIs REST**, **testes com Jest/Cypress** e **deploy em AWS (EC2, VPC, Nginx)**  
+- 🔭 Projetos recentes - Ecossistema completo de aplicativo delivery envolvendo também gestão e administração de restaurantes, nesse projeto foram desenvolvidos o aplicativo mobile, frontend e api:
+  - [Rango - App Delivery - Aplicativo](https://github.com/Luisdevux/APP-Delivery-Mobile.git)
+  - [Rango - App Delivery - API](https://github.com/Luisdevux/APP-Delivery-Api.git)
+  - [Rango - App Delivery - FrontEnd](https://github.com/Luisdevux/APP-Delivery-Front.git)
+- 🧠 Foco atual: **Next.js**, **TypeScript**, **APIs REST**, **testes com Jest** e **deploy em AWS (EC2, VPC, Nginx)**  
 - 🤝 Aberto a colaborar em: projetos educacionais e soluções de impacto social  
 - ✉️ Contato: **luis.felipe.lopes1275@gmail.com**
 
