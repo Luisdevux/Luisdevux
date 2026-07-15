@@ -77,12 +77,12 @@ Atualmente, desenvolvo projetos **Full Stack** que envolvem **frontend com Next.
 
 ## 🚀 Projetos em Destaque
 
-### [Sistema de Serviços Públicos](https://github.com/Luisdevux/Servicos_Publicos_Front)
-> Sistema completo de gestão e administração de serviços públicos com frontend moderno e API robusta. 
+### [Rango - App Delivery](https://github.com/Luisdevux/APP-Delivery-Mobile.git)
+> Sistema completo de delivery, com gestão e administração de restaurantes. 
 
-**Frontend Stack:** Next.js 15, React 19, TypeScript, TailwindCSS 4, Radix UI, React Query, React Hook Form, Zod, Leaflet (mapas), Recharts (gráficos), NextAuth, Cypress
+**Frontend Stack:** Next.js 15, React 19, TypeScript, TailwindCSS 4, Radix UI, React Query, React Hook Form, Zod, Recharts (gráficos), NextAuth
 
-**Backend Stack:** Node.js, Express 5, MongoDB, Mongoose, JWT, Swagger, Jest, Helmet, Winston, MinIO, MailSender
+**Backend Stack:** Node.js, Express 5, MongoDB, Mongoose, JWT, Swagger, Jest, Helmet, Winston, Garege, MailSender
 
 ---
 
